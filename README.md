@@ -2,4 +2,4 @@
 ![tea](./imgs/vfl.png)
 
 
-:warning: The `huggingface` package should be included in the Python 
+:warning: The `huggingface` package version should be exactly as `4.50.0`
