@@ -1,8 +1,10 @@
+
+
 # Vision-Function-Layer in Multimodal LLMs
 ![tea](./imgs/vfl.png)
 
 
-:warning: The `huggingface` package version should be exactly as `4.50.0` or you should modify the vision token swapping code based on your own version.
+:warning: The `transformers` package version should be exactly as `4.51.3` or you should modify the vision token swapping code based on your own version.
 
 # Vision Token Dropping
 
@@ -23,6 +25,7 @@ Please check out our [VFL-LoRA](./VFL-LoRA/) for the base code and environment s
 - [✅] Publish [arXiv Paper](https://www.arxiv.org/abs/2509.24791)  
 
 
+
 ---
 
 ## Citation
@@ -36,4 +39,3 @@ If you find this work useful, please cite our paper:
   year={2025}
 }
 ```
-
